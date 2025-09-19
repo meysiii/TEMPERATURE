@@ -42,7 +42,7 @@ Temperature in Fahrenheit: 98.6
 
 # output
 
-
+<img width="1920" height="1030" alt="Image" src="https://github.com/user-attachments/assets/0be22def-ade5-44d6-a63c-d94d0d83baca" />
 
 # 🔹 Future Enhancements
 
