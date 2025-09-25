@@ -24,7 +24,7 @@ Concepts: Input/Output, Variables, Arithmetic
 
 Clone this repository:
 
-git clone https://github.com/your-username/temperature-converter.git
+git clone https://github.com/meysiii/TEMPERATURE-CONVERTOR
 
 
 # Navigate to the project folder:
